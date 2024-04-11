@@ -29,7 +29,7 @@ Eager to collaborate on projects and learn from experienced and talented develop
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
 </picture>
 </a>
-<a href="www.linkedin.com/in/thomasdaclinat" target="_blank" rel="noreferrer">
+<a href="https://www.linkedin.com/in/thomasdaclinat" target="_blank" rel="noreferrer">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
